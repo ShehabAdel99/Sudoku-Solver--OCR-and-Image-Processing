@@ -50,6 +50,7 @@ python sudoku_solver.py --image_path /path/to/input/image.jpg
 
 - Shehab Adel Ramadan
 - Omar Tarek Mohamed
+- mohamed reda mohamed selim
 
 ## Acknowledgments
 - Special thanks to [OpenCV](https://opencv.org/) & [NumPy](https://numpy.org/) for their invaluable contributions.
