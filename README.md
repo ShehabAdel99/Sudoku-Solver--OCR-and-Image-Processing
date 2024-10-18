@@ -48,7 +48,7 @@ python sudoku_solver.py --image_path /path/to/input/image.jpg
 
 ## Authors
 
-- Shehab Adel Ramadan
+- Shehab Adel Ramadan Moharram
 - Omar Tarek Mohamed
 
 ## Acknowledgments
